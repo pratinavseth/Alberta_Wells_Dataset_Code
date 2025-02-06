@@ -1,10 +1,13 @@
 <div align="center">
   
-# Alberta Wells Dataset: Pinpointing Oil and Gas Wells from Satellite Imagery
+# [Alberta Wells Dataset: Pinpointing Oil and Gas Wells from Satellite Imagery](https://arxiv.org/abs/2410.09032)
 
 Pratinav Seth (#), Michelle Lin (#), Brefo Dwamena Yaw, Jade Boutot, Mary Kang & David Rolnick.
 
 (# -Denotes co-first authorship.)
+
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2410.09032)
+[![Dataset](https://img.shields.io/badge/Dataset-Access-87CEEB)](https://zenodo.org/records/13743323)
 
 </div>
 
