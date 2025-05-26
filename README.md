@@ -11,6 +11,7 @@ Pratinav Seth (#), Michelle Lin (#), Brefo Dwamena Yaw, Jade Boutot, Mary Kang &
 
 (# -Denotes co-first authorship.)
 
+Accepted at ICML 2025.
 </div>
 
       
